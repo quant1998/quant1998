@@ -19,4 +19,4 @@ Here are some ideas to get you started:
  <img alt="Showing a picture with enso" src="https://japancrossbridge.tokyo/wp-content/uploads/2021/10/722F90AE-6CDA-49AF-AF7E-8C843486EAD2-300x400.jpeg">
 </picture>
 
-円相は我が道！！！
+
